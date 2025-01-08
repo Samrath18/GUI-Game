@@ -1,3 +1,5 @@
+### Created: 2023/02/21
+
 ### Java GUI Number Guessing Game
 
 This is a simple Java-based GUI game that allows the user to guess a randomly generated number between 1 and 6. The program provides a graphical user interface with buttons for each number and tracks the user's performance throughout multiple rounds of the game.
